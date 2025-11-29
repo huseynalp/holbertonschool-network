@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 # Bash script for TCP and UDP  ports
 
-ss -tulnp
+sudo netstat -tulnp
