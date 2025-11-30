@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 # Changes localhost and facebook.com IP resolution
 
 # Backup original hosts file (optional but recommended)
